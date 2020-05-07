@@ -191,6 +191,9 @@ hr {
     background-repeat: no-repeat;
    
 }
+.icon img {
+    width: 100px;
+}
 
 
 
