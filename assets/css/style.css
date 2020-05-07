@@ -1,14 +1,21 @@
-*{
-    box-sizing: border-box;
+
+*{ 
+    box-sizing: border-box
+    font-family: "RobotoRegular", sans-serif;
 }
+
 body {
     font-size: 1.2em;
     background-color: #fff;
     color: #555;
 }
+
 p {
-    padding: 0 0 20px 0;
-    line-height: 1.7em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+  
 
 }
 
@@ -142,57 +149,48 @@ hr {
 }
 
 
-.icon {
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 10%;
-    margin-bottom: 10%;
-    
+.icon{
+    text-align: center;
+    font-size: 20px;
+
 }
 
 
-.icon_order{ 
-    margin: 0 auto 15px;
+
+.icon_order{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+    margin-right: 40px;
+    padding: 20px;
+    display: inline-block;
+    }
+
+
+.icon_order img{ 
     width: 100px;
     height: 100px;
-    background-color: white;
-    background-position: center;
     background-repeat: no-repeat;
-    margin-right: 10%;
-
+   
 }
 
-.icon_cash{ 
-    margin: 0 auto 15px;
+
+.icon_call{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+    padding: 40px;
+    margin-right: 20px;
+    display: inline-block;
+    }
+
+
+.icon_call img{ 
     width: 100px;
     height: 100px;
-    background-color: white;
-    background-position: center;
     background-repeat: no-repeat;
-    margin-right: 10%;
+   
 }
-
-.icon_call{ 
-    margin: 0 auto 15px;
-    width: 100px;
-    height: 100px;
-    background-color: white;
-    background-position: center;
-    background-repeat: no-repeat;
-    margin-right: 10%;
-}
-
-
-.icon_dilevery{ 
-    margin: 0 auto 15px;
-    width: 100px;
-    height: 110px;
-    background-color: white;
-    background-position: center;
-    background-repeat: no-repeat;
-    
-}
-
 
 
 
