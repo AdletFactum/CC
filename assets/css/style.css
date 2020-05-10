@@ -226,6 +226,7 @@ hr {
     margin-top: 2%;
 } 
 
+
 .review {
     text-align: center;
     display: flex; 
@@ -248,6 +249,23 @@ hr {
     width: 100px;
  }
  
+.name {
+    background-color: black;
+    color: white;
+    font-weight: 10px;
+    border-radius: 5px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.review p {
+    margin-top: 3%;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+
+
 
 .footer {
     background-color: black;
