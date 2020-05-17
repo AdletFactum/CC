@@ -264,6 +264,14 @@ hr {
     margin-right: 3%;
 }
 
+.eTimer {
+    display: flex;
+    margin-left: 28%;
+    margin-right: 28%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
 
 
 .footer {
