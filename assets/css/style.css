@@ -19,14 +19,14 @@ p {
 
 }
 
+
 .header_img {
 
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin-right: 10%;
+    margin-left: 10%;
     margin-bottom: 5%;
-    
-    
+    text-align: center;
 }
 
 
@@ -266,10 +266,12 @@ hr {
 
 .eTimer {
     display: flex;
-    margin-left: 28%;
-    margin-right: 28%;
-    margin-top: 10%;
-    margin-bottom: 10%;
+    margin-left: 200px;
+    margin-right: 500px;
+    margin-top: 600px;
+    position: absolute;
+    margin-bottom: 20%;
+  
 }
 
 
